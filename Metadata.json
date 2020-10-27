@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 19475,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/use-an-azure-vm-to-manage-onpremises-systems/master/Invoke-CommandViaProxy.ps1",
+    "DownloadCount": 1196,
+    "Id": "Use-an-Azure-VM-to-manage-f48e5145",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 191,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-28T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook uses an Azure VM as a management node which will invoke commands on other computers in its network. Combined with an Azure Virtual Network using a site-to-site VPN, this can enable management of on-premises nodes from Azure Automation.",
+    "Title": "Use an Azure VM to manage on-premises systems",
+    "UpdatedDate": "2015-2-17T00:00:00",
+    "Url": "https://github.com/azureautomation/use-an-azure-vm-to-manage-onpremises-systems",
+    "UserTags": "Utility, VM Lifecycle Management"
+}
